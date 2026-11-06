@@ -1,105 +1,73 @@
-# Aditya — Personal Portfolio 🍎
+# Aditya | Personal Portfolio
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Design-Apple%20Inspired-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-Backend-purple?style=for-the-badge&logo=csharp&logoColor=white" />
+  **Developer · Content Creator · Creative Technologist**
+  <br />
+  A personal portfolio showcasing my technical skills, selected projects, and creative work.
 </p>
 
 <p align="center">
-  A personal space showcasing my projects, skills, creativity and journey in technology.
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
 </p>
 
 ---
 
-## About
+## Overview
 
-Hey! I'm **Aditya**, a developer, engineering student and content creator.
+This repository contains my personal portfolio website, designed to present my work, technical interests, development skills, and content creation journey in one place.
 
-I enjoy building websites, experimenting with game development, creating digital content and exploring new technologies.
+The website follows an Apple-inspired visual direction, emphasizing simplicity, clarity, typography, responsive layouts, and a refined user experience.
 
-This portfolio is designed with an Apple-inspired aesthetic, focusing on simplicity, elegance and smooth user experience.
+## Key Features
 
-## Tech Stack
+- **Minimal Interface:** Clean, Apple-inspired visual design.
+- **Responsive Layout:** Optimized for desktop, tablet, and mobile devices.
+- **About Section:** Professional introduction and background.
+- **Technical Skills:** Development technologies and creative software.
+- **Project Showcase:** Selected personal and development projects.
+- **Creator Analytics:** Audience statistics section with backend integration scaffold.
+- **Social Integration:** Direct links to professional and creator profiles.
+- **Interactive Elements:** Subtle animations, hover effects, and icon-based navigation.
 
-### Development
-- C#
-- JavaScript
-- HTML5
-- CSS3
-- Unity
-- Git & GitHub
+## Technology Stack
 
-### Creative Tools
-- Adobe Premiere Pro
-- Adobe Photoshop
-- Blender
-
-## Features
-
-- Minimal Apple-inspired UI
-- Responsive design
-- Smooth animations and transitions
-- Lucide and Font Awesome icons
-- Skills showcase
-- Featured projects
-- Creator statistics section
-- Social media integration
-- C# analytics API scaffold
-- vidIQ analytics integration planned
-
-## Projects
-
-| Project | Description |
+| Category | Technologies |
 |---|---|
-| AadiReads | A digital reading platform |
-| Game Development | Experimental Unity projects |
-| Minecraft Addons | Custom Minecraft Bedrock experiences |
+| Frontend | HTML5, CSS3, JavaScript |
+| Backend | C#, ASP.NET Core |
+| Game Development | Unity |
+| Version Control | Git, GitHub |
+| Video Editing | Adobe Premiere Pro |
+| Image Editing | Adobe Photoshop |
+| 3D Design | Blender |
+| Icon Libraries | Lucide, Font Awesome |
 
-## Creator Profiles
+## Featured Projects
 
-<p align="center">
-  <a href="https://youtube.com/@AadiiCraft">
-    <img src="https://img.shields.io/badge/YouTube-AadiiCraft-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/AadiCraft">
-    <img src="https://img.shields.io/badge/Facebook-Aadi%20Craft-blue?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://github.com/aadi1irl">
-    <img src="https://img.shields.io/badge/GitHub-aadi1irl-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### AadiReads
+A web-based reading platform focused on providing an accessible reading experience.
 
-## Getting Started
+Repository: [aadi1irl/aadireads](https://github.com/aadi1irl/aadireads)
 
-Clone the repository:
+### Game Development
+Experimental game development projects exploring interactive environments, gameplay systems, and mechanics using Unity.
 
-```bash
-git clone https://github.com/aadi1irl/portfolio.git
-```
+### Minecraft Development
+Custom Minecraft Bedrock projects, including gameplay addons, resource packs, and experimental mechanics.
 
-Navigate into the folder:
+## Creator Presence
 
-```bash
-cd portfolio
-```
+My content creation work primarily focuses on Minecraft, gaming, and digital creativity.
 
-Open `index.html` using VS Code Live Server.
-
-### Backend
-
-The project includes an ASP.NET Core backend scaffold for analytics.
-
-```bash
-cd backend
-dotnet run
-```
-
-Configure the API endpoint in `script.js` to match your deployed backend.
-
-**Note:** Live vidIQ analytics require an authenticated MCP integration and data mapping. The current statistics are saved audience figures, not live API results.
+| Platform | Profile |
+|---|---|
+| YouTube | [AadiiCraft](https://youtube.com/@AadiiCraft) |
+| Facebook | [Aadi Craft](https://facebook.com/AadiCraft) |
+| GitHub | [aadi1irl](https://github.com/aadi1irl) |
 
 ## Project Structure
 
@@ -115,16 +83,59 @@ portfolio/
     └── AadiiCraft.Api.csproj
 ```
 
-## Connect With Me
+## Getting Started
 
-- YouTube: [@AadiiCraft](https://youtube.com/@AadiiCraft)
-- Facebook: [Aadi Craft](https://facebook.com/AadiCraft)
-- GitHub: [@aadi1irl](https://github.com/aadi1irl)
+### Prerequisites
 
----
+- Visual Studio Code
+- A modern web browser
+- .NET SDK (for the backend)
+- Live Server extension (recommended for frontend development)
 
-<p align="center">
-  Designed and developed with creativity by <b>Aditya</b>.
-  <br><br>
-  <i>Think. Create. Build.</i>
-</p>
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/aadi1irl/portfolio.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd portfolio
+```
+
+Open the project in Visual Studio Code:
+
+```bash
+code .
+```
+
+Run the frontend using the Live Server extension.
+
+### Running the Backend
+
+Navigate to the backend directory:
+
+```bash
+cd backend
+```
+
+Start the ASP.NET Core application:
+
+```bash
+dotnet run
+```
+
+Configure the frontend API endpoint in `script.js` to point to your deployed backend.
+
+## Analytics Integration
+
+The portfolio includes a creator statistics interface and an ASP.NET Core API scaffold.
+
+The planned vidIQ integration will provide access to supported channel analytics through an authenticated MCP connection.
+
+**Current implementation status:** The statistics interface currently uses saved audience figures. Live vidIQ data requires completing authentication, MCP communication, and response mapping.
+
+API credentials should always be stored securely on the backend and never exposed in
