@@ -1,141 +1,127 @@
-# Aditya | Personal Portfolio
+<!-- PROFILE HEADER -->
 
-<p align="center">
-  **Developer · Content Creator · Creative Technologist**
-  <br />
-  A personal portfolio showcasing my technical skills, selected projects, and creative work.
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0071e3,50:8b5cf6,100:111827&text=ADITYA&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Designer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+digital+experiences.;Turning+ideas+into+reality.;Exploring+code%2C+games+%26+design.;Always+learning.+Always+creating." alt="Typing SVG" />
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0071E3?style=for-the-badge&logo=safari&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![YouTube](https://img.shields.io/badge/YouTube-AadiiCraft-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AadiiCraft)
+[![Facebook](https://img.shields.io/badge/Facebook-Aadi_Craft-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/AadiCraft)
+[![GitHub](https://img.shields.io/badge/GitHub-aadi1irl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadi1irl)
+
+</div>
 
 ---
 
-## Overview
+## ✦ About
 
-This repository contains my personal portfolio website, designed to present my work, technical interests, development skills, and content creation journey in one place.
+<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-The website follows an Apple-inspired visual direction, emphasizing simplicity, clarity, typography, responsive layouts, and a refined user experience.
+I'm **Aditya**, an engineering student, developer and content creator passionate about technology and creativity.
 
-## Key Features
+I enjoy building things that live at the intersection of code, design and imagination.
 
-- **Minimal Interface:** Clean, Apple-inspired visual design.
-- **Responsive Layout:** Optimized for desktop, tablet, and mobile devices.
-- **About Section:** Professional introduction and background.
-- **Technical Skills:** Development technologies and creative software.
-- **Project Showcase:** Selected personal and development projects.
-- **Creator Analytics:** Audience statistics section with backend integration scaffold.
-- **Social Integration:** Direct links to professional and creator profiles.
-- **Interactive Elements:** Subtle animations, hover effects, and icon-based navigation.
+- Building websites and digital experiences.
+- Exploring game development with Unity.
+- Creating Minecraft Bedrock experiences.
+- Experimenting with video editing and 3D design.
+- Learning something new every day.
 
-## Technology Stack
+<br clear="right"/>
 
-| Category | Technologies |
-|---|---|
-| Frontend | HTML5, CSS3, JavaScript |
-| Backend | C#, ASP.NET Core |
-| Game Development | Unity |
-| Version Control | Git, GitHub |
-| Video Editing | Adobe Premiere Pro |
-| Image Editing | Adobe Photoshop |
-| 3D Design | Blender |
-| Icon Libraries | Lucide, Font Awesome |
+---
 
-## Featured Projects
+## ⚡ Tech & Creative Stack
 
-### AadiReads
-A web-based reading platform focused on providing an accessible reading experience.
+<div align="center">
 
-Repository: [aadi1irl/aadireads](https://github.com/aadi1irl/aadireads)
+### DEVELOPMENT
 
-### Game Development
-Experimental game development projects exploring interactive environments, gameplay systems, and mechanics using Unity.
+<img src="https://skillicons.dev/icons?i=cs,js,html,css,unity,git,github,vscode&theme=light" />
 
-### Minecraft Development
-Custom Minecraft Bedrock projects, including gameplay addons, resource packs, and experimental mechanics.
+### CREATIVE TOOLS
 
-## Creator Presence
+<img src="https://skillicons.dev/icons?i=pr,ps,blender&theme=light" />
 
-My content creation work primarily focuses on Minecraft, gaming, and digital creativity.
+</div>
 
-| Platform | Profile |
-|---|---|
-| YouTube | [AadiiCraft](https://youtube.com/@AadiiCraft) |
-| Facebook | [Aadi Craft](https://facebook.com/AadiCraft) |
-| GitHub | [aadi1irl](https://github.com/aadi1irl) |
+---
 
-## Project Structure
+## ◈ Featured Projects
 
-```text
-portfolio/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-└── backend/
-    ├── Program.cs
-    └── AadiiCraft.Api.csproj
-```
+<div align="center">
 
-## Getting Started
+<a href="https://github.com/aadi1irl/aadireads">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi1irl&repo=aadireads&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=888888&icon_color=0071e3" />
+</a>
 
-### Prerequisites
+</div>
 
-- Visual Studio Code
-- A modern web browser
-- .NET SDK (for the backend)
-- Live Server extension (recommended for frontend development)
+| Project | Description |
+|:--|:--|
+| **AadiReads** | A digital reading platform. |
+| **Unity Projects** | Experimental game development. |
+| **Minecraft Addons** | Custom Bedrock gameplay experiences. |
 
-### Installation
+---
 
-Clone the repository:
+## ◉ GitHub Activity
 
-```bash
-git clone https://github.com/aadi1irl/portfolio.git
-```
+<div align="center">
 
-Navigate to the project directory:
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadi1irl&bg_color=ffffff00&color=8b5cf6&line=0071e3&point=8b5cf6&area=true&hide_border=true" />
 
-```bash
-cd portfolio
-```
+<br />
 
-Open the project in Visual Studio Code:
+<img src="https://github-readme-stats.vercel.app/api?username=aadi1irl&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=8b5cf6&icon_color=0071e3&text_color=888888" height="165" />
 
-```bash
-code .
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi1irl&layout=compact&hide_border=true&bg_color=ffffff00&title_color=8b5cf6&text_color=888888" height="165" />
 
-Run the frontend using the Live Server extension.
+</div>
 
-### Running the Backend
+---
 
-Navigate to the backend directory:
+## ✧ Creator Space
 
-```bash
-cd backend
-```
+<div align="center">
 
-Start the ASP.NET Core application:
+<img src="https://img.shields.io/badge/YouTube-218K%2B%20Subscribers-FF0033?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/Facebook-18K%2B%20Followers-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 
-```bash
-dotnet run
-```
+<br /><br />
 
-Configure the frontend API endpoint in `script.js` to point to your deployed backend.
+**AadiiCraft** — Gaming, Minecraft and creative content.
 
-## Analytics Integration
+[YouTube Channel ↗](https://youtube.com/@AadiiCraft)
 
-The portfolio includes a creator statistics interface and an ASP.NET Core API scaffold.
+</div>
 
-The planned vidIQ integration will provide access to supported channel analytics through an authenticated MCP connection.
+---
 
-**Current implementation status:** The statistics interface currently uses saved audience figures. Live vidIQ data requires completing authentication, MCP communication, and response mapping.
+## ✦ Currently Exploring
 
-API credentials should always be stored securely on the backend and never exposed in
+<div align="center">
+
+`C#` · `JavaScript` · `Unity` · `Game Development` · `Web Development` · `3D Design`
+
+<br />
+
+*Learning today. Building tomorrow.*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111827,50:8b5cf6,100:0071e3&section=footer" width="100%" />
+
+**Designed with curiosity. Built with creativity.**
+
+<sub>© Aditya · All rights reserved.</sub>
+
+</div>
